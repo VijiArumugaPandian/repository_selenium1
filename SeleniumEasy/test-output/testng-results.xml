@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="31" passed="31" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Radio Button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Group Radio button is enabled]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-02-27T12:45:55Z" name="Suite1" finished-at="2021-02-27T13:01:56Z" duration-ms="960459">
+    <groups>
+    </groups>
+    <test started-at="2021-02-27T12:45:55Z" name="INPUT FORM" finished-at="2021-02-27T12:47:34Z" duration-ms="98770">
+      <class name="inputform.AdvancedInputform">
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:46:56Z" name="StartBrowser" finished-at="2021-02-27T12:47:04Z" duration-ms="7893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC01()[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:04Z" name="TC01" finished-at="2021-02-27T12:47:08Z" duration-ms="3972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:08Z" name="closeBrowser" finished-at="2021-02-27T12:47:09Z" duration-ms="830" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=AdvancedInputform.TC01()[pri:0, instance:inputform.AdvancedInputform@1ce24091] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:09Z" name="StartBrowser" finished-at="2021-02-27T12:47:19Z" duration-ms="10595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC02()[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:19Z" name="TC02" finished-at="2021-02-27T12:47:21Z" duration-ms="1493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:21Z" name="closeBrowser" finished-at="2021-02-27T12:47:22Z" duration-ms="894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=AdvancedInputform.TC02()[pri:0, instance:inputform.AdvancedInputform@1ce24091] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:22Z" name="StartBrowser" finished-at="2021-02-27T12:47:30Z" duration-ms="7937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC03()[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:30Z" name="TC03" finished-at="2021-02-27T12:47:33Z" duration-ms="3245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.AdvancedInputform@1ce24091]" started-at="2021-02-27T12:47:33Z" name="closeBrowser" finished-at="2021-02-27T12:47:34Z" duration-ms="907" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=AdvancedInputform.TC03()[pri:0, instance:inputform.AdvancedInputform@1ce24091] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- inputform.AdvancedInputform -->
+      <class name="inputform.SimpleFormDemo">
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:45:55Z" name="StartBrowser" finished-at="2021-02-27T12:46:10Z" duration-ms="14802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC01()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:10Z" name="TC01" finished-at="2021-02-27T12:46:12Z" duration-ms="1792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:12Z" name="closeBrowser" finished-at="2021-02-27T12:46:13Z" duration-ms="891" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=SimpleFormDemo.TC01()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:13Z" name="StartBrowser" finished-at="2021-02-27T12:46:25Z" duration-ms="12149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC02()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:25Z" name="TC02" finished-at="2021-02-27T12:46:26Z" duration-ms="1555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:26Z" name="closeBrowser" finished-at="2021-02-27T12:46:27Z" duration-ms="921" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=SimpleFormDemo.TC02()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:27Z" name="StartBrowser" finished-at="2021-02-27T12:46:35Z" duration-ms="7387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC03()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:35Z" name="TC03" finished-at="2021-02-27T12:46:36Z" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:36Z" name="closeBrowser" finished-at="2021-02-27T12:46:36Z" duration-ms="819" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=SimpleFormDemo.TC03()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:36Z" name="StartBrowser" finished-at="2021-02-27T12:46:44Z" duration-ms="7097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC04()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:44Z" name="TC04" finished-at="2021-02-27T12:46:45Z" duration-ms="1396" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Radio Button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Group Radio button is enabled]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:45Z" name="closeBrowser" finished-at="2021-02-27T12:46:46Z" duration-ms="832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04 status=SUCCESS method=SimpleFormDemo.TC04()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6] output=Radio Button is clicked]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:46Z" name="StartBrowser" finished-at="2021-02-27T12:46:54Z" duration-ms="8138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="TC05()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:54Z" name="TC05" finished-at="2021-02-27T12:46:55Z" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC05 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:inputform.SimpleFormDemo@fbd1f6]" started-at="2021-02-27T12:46:55Z" name="closeBrowser" finished-at="2021-02-27T12:46:56Z" duration-ms="863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC05 status=SUCCESS method=SimpleFormDemo.TC05()[pri:0, instance:inputform.SimpleFormDemo@fbd1f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- inputform.SimpleFormDemo -->
+    </test> <!-- INPUT FORM -->
+    <test started-at="2021-02-27T12:47:35Z" name="DATEPICKER" finished-at="2021-02-27T12:48:05Z" duration-ms="30429">
+      <class name="datepickers.DatePicker">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:datepickers.DatePicker@4009e306]" started-at="2021-02-27T12:47:35Z" name="startBrowser" finished-at="2021-02-27T12:47:44Z" duration-ms="8683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:datepickers.DatePicker@4009e306]" started-at="2021-02-27T12:47:44Z" name="TC01" finished-at="2021-02-27T12:47:50Z" duration-ms="6259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:datepickers.DatePicker@4009e306]" started-at="2021-02-27T12:47:50Z" name="closeBrowser" finished-at="2021-02-27T12:47:51Z" duration-ms="954" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=DatePicker.TC01()[pri:0, instance:datepickers.DatePicker@4009e306] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:datepickers.DatePicker@4009e306]" started-at="2021-02-27T12:47:51Z" name="startBrowser" finished-at="2021-02-27T12:48:01Z" duration-ms="10304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:datepickers.DatePicker@4009e306]" started-at="2021-02-27T12:48:01Z" name="TC02" finished-at="2021-02-27T12:48:04Z" duration-ms="3157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:datepickers.DatePicker@4009e306]" started-at="2021-02-27T12:48:04Z" name="closeBrowser" finished-at="2021-02-27T12:48:05Z" duration-ms="1065" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=DatePicker.TC02()[pri:0, instance:datepickers.DatePicker@4009e306] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- datepickers.DatePicker -->
+    </test> <!-- DATEPICKER -->
+    <test started-at="2021-02-27T12:48:05Z" name="TABLE" finished-at="2021-02-27T12:49:04Z" duration-ms="58184">
+      <class name="table.TablePagination">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:05Z" name="startBrowser" finished-at="2021-02-27T12:48:15Z" duration-ms="9497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:15Z" name="TC01" finished-at="2021-02-27T12:48:18Z" duration-ms="2705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:18Z" name="closeBrowser" finished-at="2021-02-27T12:48:18Z" duration-ms="832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=TablePagination.TC01()[pri:0, instance:table.TablePagination@6913c1fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:18Z" name="startBrowser" finished-at="2021-02-27T12:48:25Z" duration-ms="6965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:25Z" name="TC02" finished-at="2021-02-27T12:48:31Z" duration-ms="5223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:31Z" name="closeBrowser" finished-at="2021-02-27T12:48:31Z" duration-ms="851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=TablePagination.TC02()[pri:0, instance:table.TablePagination@6913c1fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:31Z" name="startBrowser" finished-at="2021-02-27T12:48:43Z" duration-ms="11829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC03()[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:43Z" name="TC03" finished-at="2021-02-27T12:48:48Z" duration-ms="4280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:table.TablePagination@6913c1fb]" started-at="2021-02-27T12:48:48Z" name="closeBrowser" finished-at="2021-02-27T12:48:48Z" duration-ms="829" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=TablePagination.TC03()[pri:0, instance:table.TablePagination@6913c1fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- table.TablePagination -->
+      <class name="table.TableSortSearch">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:table.TableSortSearch@66d18979]" started-at="2021-02-27T12:48:48Z" name="startBrowser" finished-at="2021-02-27T12:49:00Z" duration-ms="11233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:table.TableSortSearch@66d18979]" started-at="2021-02-27T12:49:00Z" name="TC01" finished-at="2021-02-27T12:49:03Z" duration-ms="3048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:table.TableSortSearch@66d18979]" started-at="2021-02-27T12:49:03Z" name="closeBrowser" finished-at="2021-02-27T12:49:04Z" duration-ms="881" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=TableSortSearch.TC01()[pri:0, instance:table.TableSortSearch@66d18979] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- table.TableSortSearch -->
+    </test> <!-- TABLE -->
+    <test started-at="2021-02-27T12:49:04Z" name="PROGRESS BAR" finished-at="2021-02-27T12:49:46Z" duration-ms="42747">
+      <class name="progressbarandslider.ProgressBars">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:04Z" name="startBrowser" finished-at="2021-02-27T12:49:14Z" duration-ms="10384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:14Z" name="TC01" finished-at="2021-02-27T12:49:18Z" duration-ms="4106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:18Z" name="closeBrowser" finished-at="2021-02-27T12:49:19Z" duration-ms="816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=ProgressBars.TC01()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:19Z" name="startBrowser" finished-at="2021-02-27T12:49:32Z" duration-ms="12571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:32Z" name="TC02" finished-at="2021-02-27T12:49:35Z" duration-ms="3898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:35Z" name="closeBrowser" finished-at="2021-02-27T12:49:36Z" duration-ms="801" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=ProgressBars.TC02()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:36Z" name="startBrowser" finished-at="2021-02-27T12:49:44Z" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC03()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:44Z" name="TC03" finished-at="2021-02-27T12:49:45Z" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:progressbarandslider.ProgressBars@79d8407f]" started-at="2021-02-27T12:49:45Z" name="closeBrowser" finished-at="2021-02-27T12:49:46Z" duration-ms="1063" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=ProgressBars.TC03()[pri:0, instance:progressbarandslider.ProgressBars@79d8407f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- progressbarandslider.ProgressBars -->
+    </test> <!-- PROGRESS BAR -->
+    <test started-at="2021-02-27T12:49:46Z" name="ALERT MODAL" finished-at="2021-02-27T12:52:38Z" duration-ms="171329">
+      <class name="alertmodal.Popup">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:50:51Z" name="startBrowser" finished-at="2021-02-27T12:51:03Z" duration-ms="12437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:03Z" name="TC01" finished-at="2021-02-27T12:51:18Z" duration-ms="15011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:18Z" name="closeBrowser" finished-at="2021-02-27T12:51:19Z" duration-ms="929" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=Popup.TC01()[pri:0, instance:alertmodal.Popup@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:19Z" name="startBrowser" finished-at="2021-02-27T12:51:33Z" duration-ms="13795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:33Z" name="TC02" finished-at="2021-02-27T12:51:40Z" duration-ms="6940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:40Z" name="closeBrowser" finished-at="2021-02-27T12:51:41Z" duration-ms="1339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=Popup.TC02()[pri:0, instance:alertmodal.Popup@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:41Z" name="startBrowser" finished-at="2021-02-27T12:51:53Z" duration-ms="12166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC03()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:51:53Z" name="TC03" finished-at="2021-02-27T12:52:11Z" duration-ms="17734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:52:11Z" name="closeBrowser" finished-at="2021-02-27T12:52:12Z" duration-ms="1488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=Popup.TC03()[pri:0, instance:alertmodal.Popup@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:52:12Z" name="startBrowser" finished-at="2021-02-27T12:52:27Z" duration-ms="14268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC04()[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:52:27Z" name="TC04" finished-at="2021-02-27T12:52:37Z" duration-ms="10187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.Popup@45b4c3a9]" started-at="2021-02-27T12:52:37Z" name="closeBrowser" finished-at="2021-02-27T12:52:38Z" duration-ms="853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC04 status=SUCCESS method=Popup.TC04()[pri:0, instance:alertmodal.Popup@45b4c3a9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- alertmodal.Popup -->
+      <class name="alertmodal.BootStrapAlert">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.BootStrapAlert@1190200a]" started-at="2021-02-27T12:49:46Z" name="startBrowser" finished-at="2021-02-27T12:49:53Z" duration-ms="7089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:alertmodal.BootStrapAlert@1190200a]" started-at="2021-02-27T12:49:53Z" name="TC01" finished-at="2021-02-27T12:49:56Z" duration-ms="2338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.BootStrapAlert@1190200a]" started-at="2021-02-27T12:49:56Z" name="closeBrowser" finished-at="2021-02-27T12:49:57Z" duration-ms="826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=BootStrapAlert.TC01()[pri:0, instance:alertmodal.BootStrapAlert@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.BootStrapAlert@1190200a]" started-at="2021-02-27T12:49:57Z" name="startBrowser" finished-at="2021-02-27T12:50:04Z" duration-ms="7590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:alertmodal.BootStrapAlert@1190200a]" started-at="2021-02-27T12:50:04Z" name="TC02" finished-at="2021-02-27T12:50:17Z" duration-ms="12460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.BootStrapAlert@1190200a]" started-at="2021-02-27T12:50:17Z" name="closeBrowser" finished-at="2021-02-27T12:50:18Z" duration-ms="888" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=BootStrapAlert.TC02()[pri:0, instance:alertmodal.BootStrapAlert@1190200a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- alertmodal.BootStrapAlert -->
+      <class name="alertmodal.JavaScriptAlert">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80]" started-at="2021-02-27T12:50:18Z" name="startBrowser" finished-at="2021-02-27T12:50:30Z" duration-ms="12803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80]" started-at="2021-02-27T12:50:30Z" name="TC01" finished-at="2021-02-27T12:50:31Z" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80]" started-at="2021-02-27T12:50:31Z" name="closeBrowser" finished-at="2021-02-27T12:50:32Z" duration-ms="867" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=JavaScriptAlert.TC01()[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80]" started-at="2021-02-27T12:50:32Z" name="startBrowser" finished-at="2021-02-27T12:50:44Z" duration-ms="12546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80]" started-at="2021-02-27T12:50:44Z" name="TC02" finished-at="2021-02-27T12:50:49Z" duration-ms="4993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80]" started-at="2021-02-27T12:50:49Z" name="closeBrowser" finished-at="2021-02-27T12:50:51Z" duration-ms="1370" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=JavaScriptAlert.TC02()[pri:0, instance:alertmodal.JavaScriptAlert@6a2f6f80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- alertmodal.JavaScriptAlert -->
+    </test> <!-- ALERT MODAL -->
+    <test started-at="2021-02-27T12:52:38Z" name="LIST" finished-at="2021-02-27T12:53:09Z" duration-ms="30393">
+      <class name="list.BootStrapList">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:52:38Z" name="startBrowser" finished-at="2021-02-27T12:52:46Z" duration-ms="8015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:52:46Z" name="TC01" finished-at="2021-02-27T12:52:47Z" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:52:47Z" name="closeBrowser" finished-at="2021-02-27T12:52:48Z" duration-ms="1046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=BootStrapList.TC01()[pri:0, instance:list.BootStrapList@7ee8290b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:52:48Z" name="startBrowser" finished-at="2021-02-27T12:52:58Z" duration-ms="9595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:52:58Z" name="TC02" finished-at="2021-02-27T12:52:59Z" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:52:59Z" name="closeBrowser" finished-at="2021-02-27T12:53:00Z" duration-ms="892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=BootStrapList.TC02()[pri:0, instance:list.BootStrapList@7ee8290b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:53:00Z" name="startBrowser" finished-at="2021-02-27T12:53:07Z" duration-ms="7329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC03()[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:53:07Z" name="TC03" finished-at="2021-02-27T12:53:08Z" duration-ms="585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:list.BootStrapList@7ee8290b]" started-at="2021-02-27T12:53:08Z" name="closeBrowser" finished-at="2021-02-27T12:53:09Z" duration-ms="853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=BootStrapList.TC03()[pri:0, instance:list.BootStrapList@7ee8290b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- list.BootStrapList -->
+    </test> <!-- LIST -->
+    <test started-at="2021-02-27T12:53:09Z" name="OTHER ELEMENTS" finished-at="2021-02-27T13:01:56Z" duration-ms="526890">
+      <class name="OtherElements.dragandDrop">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T12:53:09Z" name="startBrowser" finished-at="2021-02-27T12:53:16Z" duration-ms="7607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC01()[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T12:53:16Z" name="TC01" finished-at="2021-02-27T13:01:30Z" duration-ms="493285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:30Z" name="closeBrowser" finished-at="2021-02-27T13:01:31Z" duration-ms="1387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC01 status=SUCCESS method=dragandDrop.TC01()[pri:0, instance:OtherElements.dragandDrop@1757cd72] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:31Z" name="startBrowser" finished-at="2021-02-27T13:01:41Z" duration-ms="9683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC02()[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:41Z" name="TC02" finished-at="2021-02-27T13:01:42Z" duration-ms="1063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:42Z" name="closeBrowser" finished-at="2021-02-27T13:01:43Z" duration-ms="844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC02 status=SUCCESS method=dragandDrop.TC02()[pri:0, instance:OtherElements.dragandDrop@1757cd72] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:43Z" name="startBrowser" finished-at="2021-02-27T13:01:51Z" duration-ms="8122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="TC03()[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:51Z" name="TC03" finished-at="2021-02-27T13:01:53Z" duration-ms="2655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03 -->
+        <test-method is-config="true" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:OtherElements.dragandDrop@1757cd72]" started-at="2021-02-27T13:01:53Z" name="closeBrowser" finished-at="2021-02-27T13:01:56Z" duration-ms="2238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC03 status=SUCCESS method=dragandDrop.TC03()[pri:0, instance:OtherElements.dragandDrop@1757cd72] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- OtherElements.dragandDrop -->
+    </test> <!-- OTHER ELEMENTS -->
+  </suite> <!-- Suite1 -->
+</testng-results>

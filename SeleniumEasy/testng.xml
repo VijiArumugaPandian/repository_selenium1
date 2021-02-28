@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="Suite1">
+	<test thread-count="5" name="INPUT FORM">
+		<classes>
+			<class name="inputform.SimpleFormDemo" />
+			<class name="inputform.AdvancedInputform" />
+
+		</classes>
+	</test>
+	<test  name="DATEPICKER">
+		<classes>
+			<class name="datepickers.DatePicker" />
+		</classes>
+	</test>
+	<test thread-count="5" name="TABLE">
+		<classes>
+			<class name="table.TablePagination" />
+			<class name="table.TableSortSearch" />
+		</classes>
+	</test>
+	<test thread-count="5" name="PROGRESS BAR">
+		<classes>
+			<class name="progressbarandslider.ProgressBars" />
+		</classes>
+	</test>
+	<test thread-count="5" name="ALERT MODAL">
+		<classes>
+			<class name="alertmodal.BootStrapAlert" />
+			<class name="alertmodal.JavaScriptAlert" />
+			<class name="alertmodal.Popup" />
+		</classes>
+	</test>
+	<test thread-count="5" name="LIST">
+		<classes>
+			<class name="list.BootStrapList" />
+		</classes>
+	</test>
+	<test thread-count="5" name="OTHER ELEMENTS">
+		<classes>
+			<class name="OtherElements.dragandDrop" />
+		</classes>
+	</test>
+</suite> 

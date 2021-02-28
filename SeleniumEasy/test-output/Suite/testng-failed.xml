@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="alertmodal.JavaScriptAlert">
+        <methods>
+          <include name="TC01"/>
+          <include name="closeBrowser"/>
+          <include name="TC02"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- alertmodal.JavaScriptAlert -->
+      <class name="inputform.AdvancedInputform">
+        <methods>
+          <include name="StartBrowser"/>
+          <include name="closeBrowser"/>
+          <include name="TC03"/>
+          <include name="TC02"/>
+        </methods>
+      </class> <!-- inputform.AdvancedInputform -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
